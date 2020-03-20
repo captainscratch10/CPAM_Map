@@ -1,3 +1,7 @@
 ## Map
--Insert map image here-
+<img src="https://imgur.com/APmhaOP.png"/>
+
 ### Legend
+<div class="text-green">
+  placeholder
+</div>
